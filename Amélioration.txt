@@ -1,0 +1,4 @@
+Amélioration
+
+dans le makefile, ajouter une cible test.
+sur le git, faire dossier .c et .h etc , faut que ca soit propre
